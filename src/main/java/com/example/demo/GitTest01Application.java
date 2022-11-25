@@ -20,5 +20,6 @@ public class GitTest01Application {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("gitee push");
     }
 }
