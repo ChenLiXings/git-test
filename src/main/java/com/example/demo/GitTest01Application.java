@@ -22,5 +22,7 @@ public class GitTest01Application {
         System.out.println("pull test");
         System.out.println("gitee push");
         System.out.println("gitee test2");
+        System.out.println("this is new one");
+        System.out.println("this is new two");
     }
 }
